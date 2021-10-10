@@ -36,3 +36,4 @@ You will be prompted to fill out the data you wish to scrape, as well as which a
 
 - snscrape source code was utilized in this app. Follow the links in the Installation section for more details
 - MartinBeckUT's Python Wrapped TwitterScraper is the core of how snscrape was integrated into this project.
+- Idea and troubleshooting for this came up during a project with [Lisa](https://github.com/balllisaann) and [Meghan](https://github.com/megkennedy)
